@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Есения Есина](https://up.htmlacademy.ru/htmlcss/18/user/213482).
+* Студент: [Есения Есина, новичок](https://up.htmlacademy.ru/htmlcss/18/user/213482).
 
 ---
 
