@@ -15,12 +15,23 @@ body {
 	line-height: 42px;
 }
 
-.level1-title {
+.index-subtitle {
 	font-size: 30px;
 	line-height: 42px;
 }
 
-.level2-title {
+.index-subtitle-feature {
+	font-size: 30px;
+	line-height: 42px;
+	color: #ffffff;
+}
+
+.goods-subtitle {
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.product-info-subtitle {
 	font-size: 24px;
 	line-height: 30px;
 }
